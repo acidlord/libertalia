@@ -1,0 +1,19 @@
+# Git .. comandos y aprender ...
+http://rogerdudler.github.io/git-guide/index.es.html
+https://git-scm.com/book/es/v1/Empezando
+http://www.edy.es/dev/docs/git-guia-rapida/
+https://elbauldelprogramador.com/mini-tutorial-y-chuleta-de-comandos-git/
+
+
+# Symfony 2.3
+https://symfony.com/doc/2.3/index.html
+https://devcenter.heroku.com/articles/getting-started-with-symfony
+http://gitnacho.github.io/symfony-docs-es/quick_tour/the_architecture.html
+http://www.softclear.net/softsite/es/symfony-2-arquitectura/
+
+
+# Deploy Symfony .. . . .
+https://stfalcon.com/en/blog/post/deploying-symfony2-applications-on-heroku-cloud
+https://coderwall.com/p/qpitzq/deploing-symfony-project-using-mysql-to-heroku
+https://symfony.com/doc/current/deployment.html
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-symfony-application-to-production-on-ubuntu-14-04
